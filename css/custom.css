@@ -510,6 +510,10 @@ width: 70px;
 	.text{
 		background: none;
 	}
+
+	.text br{
+		display:none;
+	}
 }
 
 
